@@ -1,0 +1,13 @@
+<> <> <> <> <> <> <> <> <> <> <> <>
+Admin 
+contact@admin.codeur =>000000
+Users
+p@p.fr =>000000 
+Etablissements
+ecole@ecole.de =>codeur
+Admin emplate :
+http://boom-admin.herokuapp.com/
+/*
+ * 
+ * 
+ */
